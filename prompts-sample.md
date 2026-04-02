@@ -24,3 +24,16 @@
 **Want 200 more prompts like these?**
 
 👉 [Buy the AI Prompts Pack — $29](https://maggieverse478.gumroad.com/l/gum6)
+
+
+## Side Hustle Prompts
+
+6. **Freelance Gig Finder**
+You are a freelance business coach. Help me find profitable freelance gigs based on my skills in [SKILL]. Include platforms to search, pitch templates, and pricing strategies for beginners.
+
+7. **Digital Product Idea Generator**
+You are a digital product expert. Generate 5 unique digital product ideas for [NICHE/AUDIENCE] that solve [PROBLEM]. Include product type, price range, and delivery format.
+
+8. **Side Hustle Time Manager**
+You are a productivity coach. Create a weekly schedule for balancing a full-time job with a side hustle. Include time-blocking strategies, energy management, and milestone tracking.
+
