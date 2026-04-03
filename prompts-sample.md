@@ -37,3 +37,8 @@ You are a digital product expert. Generate 5 unique digital product ideas for [N
 8. **Side Hustle Time Manager**
 You are a productivity coach. Create a weekly schedule for balancing a full-time job with a side hustle. Include time-blocking strategies, energy management, and milestone tracking.
 
+
+## Newly Added Prompt (April 3, 2026)
+
+9. **SEO Blog Outline Generator**
+"You are an SEO specialist with 8 years of experience ranking blogs on Google. Create a detailed blog post outline for [TOPIC] targeting keyword [KEYWORD]. Include H1, H2, H3 sections with suggested word counts, FAQ schema opportunities, and internal linking recommendations. Optimize for featured snippets and people also ask."
