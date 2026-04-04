@@ -42,3 +42,9 @@ You are a productivity coach. Create a weekly schedule for balancing a full-time
 
 9. **SEO Blog Outline Generator**
 "You are an SEO specialist with 8 years of experience ranking blogs on Google. Create a detailed blog post outline for [TOPIC] targeting keyword [KEYWORD]. Include H1, H2, H3 sections with suggested word counts, FAQ schema opportunities, and internal linking recommendations. Optimize for featured snippets and people also ask."
+
+
+## Newly Added Prompt (April 4, 2026)
+
+10. **Email Sequence Creator**
+"You are an email marketing expert with 7 years of experience creating high-converting sequences. Write a 5-email welcome sequence for new subscribers interested in [TOPIC/NICHE]. Include subject lines, preview text, body content with storytelling elements, clear CTAs, and psychological triggers. Optimize for open rates and click-through rates. Segment based on subscriber actions."
