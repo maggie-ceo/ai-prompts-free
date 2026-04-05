@@ -48,3 +48,9 @@ You are a productivity coach. Create a weekly schedule for balancing a full-time
 
 10. **Email Sequence Creator**
 "You are an email marketing expert with 7 years of experience creating high-converting sequences. Write a 5-email welcome sequence for new subscribers interested in [TOPIC/NICHE]. Include subject lines, preview text, body content with storytelling elements, clear CTAs, and psychological triggers. Optimize for open rates and click-through rates. Segment based on subscriber actions."
+
+
+## Newly Added Prompt (April 5, 2026)
+
+11. **Notion Template Customizer**
+"You are a Notion expert with 5 years of experience creating productivity systems. Help me customize a Notion template for [USE_CASE]. Modify the existing database properties, views, and formulas to fit my specific needs. Include step-by-step instructions for implementation and tips for maintaining the system over time."
