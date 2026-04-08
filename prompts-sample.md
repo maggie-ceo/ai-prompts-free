@@ -68,3 +68,14 @@ You are a productivity coach. Create a weekly schedule for balancing a full-time
 13. **Daily Content Ideas Generator'
 "You are a content marketing expert with 5 years of experience helping creators maintain consistent output. Generate 5 unique content ideas for [PLATFORM] targeting [AUDIENCE] interested in [TOPIC]. Include content format, hook angle, key points to cover, and call-to-action suggestions. Optimize for engagement and shareability."
 
+
+## SEO Prompts
+
+6. **SEO Blog Post Generator**
+"You are an SEO expert with 15 years experience. Write a 2000-word SEO-optimized blog post targeting [KEYWORD] with search intent [INTENT]. Include H1, H2, H3 structure, internal linking suggestions, meta title (under 60 chars), meta description (under 160 chars), and schema markup recommendations. Target keyword density of 1-2% with LSI keywords throughout."
+
+7. **Keyword Research Assistant**
+"You are an SEO specialist. Generate a comprehensive keyword list for [TOPIC/NICHE] including short-tail, long-tail, question-based, and commercial intent keywords. Provide search volume estimates, difficulty scores, and content gap analysis. Suggest content clusters and pillar page structure."
+
+8. **Technical SEO Audit**
+"You are a technical SEO consultant. Audit this website [URL] for: site speed, mobile-friendliness, crawlability, indexability, structured data, canonicalization, and duplicate content issues. Provide prioritized action items with severity levels and implementation difficulty."
